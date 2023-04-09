@@ -1,7 +1,7 @@
 <h1>Damilareadesina - Descriptive Analysis On Inflation</h1>
 
 <h2>Description</h2>
-Data cleaning is a vital process for every data analytics project you embark on. It serves as a foundation to every other building task involved in any project. This project, we used power query as a tool to process and clean the data. Power query have some amazing built-in function that helps reducing and transforming a large dataset to your suitable preference.
+Analysis on inflation is a descriptive analysis that explain how countries have performed in the span of 22years. Inflation is a power economic tool that government uses to adjust their policies to the development of their countries. Inflation is the general increase in prices and fall in the purchasing vlue of money.This project tries to compare how countries have performed in recent year with reference to Nigeria
 <br />
 
 
@@ -18,8 +18,8 @@ Data cleaning is a vital process for every data analytics project you embark on.
 <h2>Process walk-through:</h2>
 
 <p align="center">
-Unclean Data: <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230529966-0f4aa79e-fff3-491c-b376-d69bcdfdd68d.JPG"/>
+Unprocess Data: <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230754211-675ceba1-c056-4d02-bc27-cdda8d18037a.JPG"/>
 <br />
 <br />
 Launch power query:  <br/>
