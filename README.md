@@ -34,8 +34,8 @@ Unpivot column:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230756564-81371364-2725-40fb-ad21-66461f3a0440.JPG"/>
 <br />
 <br />
-Replace misrepresented value:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230533741-3584afe7-1a40-4395-af40-565c5fea74f9.JPG"/>
+Loaded Into Table:  <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230757216-1246eb6d-1806-450f-8a40-6f3e7f992d71.JPG"/>
 <br />
 <br />
 Cleaning completed:  <br/>
