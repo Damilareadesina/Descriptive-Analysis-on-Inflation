@@ -30,8 +30,8 @@ Merging both Queries: <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230756016-a3cc9076-dcc7-4bb2-b485-0ad6713f3d42.JPG"/>
 <br />
 <br />
-Transform columns by removing characters:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230533719-1a96f852-fe3e-4329-a9fa-93761b1e140a.JPG"/>
+Unpivot column:  <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230756564-81371364-2725-40fb-ad21-66461f3a0440.JPG"/>
 <br />
 <br />
 Replace misrepresented value:  <br/>
