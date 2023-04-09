@@ -26,8 +26,8 @@ Importing more Information from the Meta Data:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230755595-5c4611eb-3121-4bd1-89af-72e4cec7d27d.JPG"/>
 <br />
 <br />
-Merging both Queries: <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230756016-a3cc9076-dcc7-4bb2-b485-0ad6713f3d42.JPG"/>
+Dashboard Creation: <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230757786-b5ed01b1-1de3-4624-b3cf-e4810ee47fd1.JPG"/>
 <br />
 <br />
 Unpivot column:  <br/>
