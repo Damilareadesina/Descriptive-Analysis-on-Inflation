@@ -26,7 +26,10 @@ Importing more Information from the Meta Data:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230755595-5c4611eb-3121-4bd1-89af-72e4cec7d27d.JPG"/>
 <br />
 <br />
-
+Merging Queries:  <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230756016-a3cc9076-dcc7-4bb2-b485-0ad6713f3d42.JPG"/>
+<br />
+<br />
 Unpivot column:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230756564-81371364-2725-40fb-ad21-66461f3a0440.JPG"/>
 <br />
