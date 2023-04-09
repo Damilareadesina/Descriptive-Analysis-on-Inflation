@@ -38,8 +38,8 @@ Loaded Into Table:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230757216-1246eb6d-1806-450f-8a40-6f3e7f992d71.JPG"/>
 <br />
 <br />
-Cleaning completed:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230533777-a9ba6818-d72e-49ee-8bb0-a05d60588d2c.JPG"/>
+Pivot tble Analysis:  <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230757455-ceeab725-1100-4c6b-b9d0-8e61727a025c.JPG"/>
 <br />
 <br />
 loaded data:  <br/>
