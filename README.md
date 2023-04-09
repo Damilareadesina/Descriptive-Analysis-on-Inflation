@@ -26,8 +26,8 @@ Importing more Information from the Meta Data:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230755595-5c4611eb-3121-4bd1-89af-72e4cec7d27d.JPG"/>
 <br />
 <br />
-Remove null and blank rows: <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230533727-fbc5bbc9-e77a-4f8f-8666-0834e3cdbd0b.JPG"/>
+Merging both Queries: <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230756016-a3cc9076-dcc7-4bb2-b485-0ad6713f3d42.JPG"/>
 <br />
 <br />
 Transform columns by removing characters:  <br/>
