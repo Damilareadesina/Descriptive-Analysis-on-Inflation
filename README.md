@@ -22,8 +22,8 @@ Unprocess Data: <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230754211-675ceba1-c056-4d02-bc27-cdda8d18037a.JPG"/>
 <br />
 <br />
-Launch power query:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230532945-cfdc7308-6c1e-424c-987c-36cb11448c75.JPG"/>
+Importing more Information from the Meta Data:  <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230755595-5c4611eb-3121-4bd1-89af-72e4cec7d27d.JPG"/>
 <br />
 <br />
 Remove null and blank rows: <br/>
