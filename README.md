@@ -42,10 +42,7 @@ Pivot tble Analysis:  <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230757455-ceeab725-1100-4c6b-b9d0-8e61727a025c.JPG"/>
 <br />
 <br />
-loaded data:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230533796-ac2bb7b7-c67f-4ab2-ab1f-83db724b7137.JPG"/>
-<br />
-<br />
+
  Dashboard Creation: <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230757786-b5ed01b1-1de3-4624-b3cf-e4810ee47fd1.JPG"/>
 
